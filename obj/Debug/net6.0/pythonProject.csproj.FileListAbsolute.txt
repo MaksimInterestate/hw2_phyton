@@ -1,0 +1,15 @@
+C:\Users\максим\PycharmProjects\pythonProject\bin\Debug\net6.0\pythonProject.exe
+C:\Users\максим\PycharmProjects\pythonProject\bin\Debug\net6.0\pythonProject.deps.json
+C:\Users\максим\PycharmProjects\pythonProject\bin\Debug\net6.0\pythonProject.runtimeconfig.json
+C:\Users\максим\PycharmProjects\pythonProject\bin\Debug\net6.0\pythonProject.dll
+C:\Users\максим\PycharmProjects\pythonProject\bin\Debug\net6.0\pythonProject.pdb
+C:\Users\максим\PycharmProjects\pythonProject\obj\Debug\net6.0\pythonProject.csproj.AssemblyReference.cache
+C:\Users\максим\PycharmProjects\pythonProject\obj\Debug\net6.0\pythonProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\максим\PycharmProjects\pythonProject\obj\Debug\net6.0\pythonProject.AssemblyInfoInputs.cache
+C:\Users\максим\PycharmProjects\pythonProject\obj\Debug\net6.0\pythonProject.AssemblyInfo.cs
+C:\Users\максим\PycharmProjects\pythonProject\obj\Debug\net6.0\pythonProject.csproj.CoreCompileInputs.cache
+C:\Users\максим\PycharmProjects\pythonProject\obj\Debug\net6.0\pythonProject.dll
+C:\Users\максим\PycharmProjects\pythonProject\obj\Debug\net6.0\refint\pythonProject.dll
+C:\Users\максим\PycharmProjects\pythonProject\obj\Debug\net6.0\pythonProject.pdb
+C:\Users\максим\PycharmProjects\pythonProject\obj\Debug\net6.0\pythonProject.genruntimeconfig.cache
+C:\Users\максим\PycharmProjects\pythonProject\obj\Debug\net6.0\ref\pythonProject.dll
